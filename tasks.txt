@@ -1,3 +1,5 @@
 Send email
 Invite bids
 Send email
+Meeting with managers
+inventory check
